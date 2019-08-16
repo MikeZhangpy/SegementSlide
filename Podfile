@@ -6,6 +6,7 @@ project './Example.xcodeproj'
 
 def common_pods
     pod 'SegementSlide', :path => './'
+    
 end
 
 target 'Example' do
